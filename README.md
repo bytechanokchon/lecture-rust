@@ -1,3 +1,3 @@
 # lecture-rust
 
-current: https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html
+current: https://doc.rust-lang.org/book/ch03-04-comments.html
